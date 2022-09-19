@@ -26,7 +26,5 @@ img{
 img:hover{
 	transform: scale(1.1);
 	animation: ease-in-out;
-
-	transform: rotate(360deg);
 	}
 
